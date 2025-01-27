@@ -40,8 +40,8 @@ pnpm dev
 
 并感谢我们所有的支持者! 🙏
 
-<a href="https://github.com/study-vue3/fast-vue3/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=study-vue3/fast-vue3" />
+<a href="https://github.com/XiangBo-EvanZuo/perfect-vue/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=XiangBo-EvanZuo/perfect-vue" />
 </a>
 
 # Star History
