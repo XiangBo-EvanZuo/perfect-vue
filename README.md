@@ -46,4 +46,4 @@ pnpm dev
 
 # Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=tobe-fe-dalao/fast-vue3&type=Timeline)](https://star-history.com/#tobe-fe-dalao/fast-vue3&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=XiangBo-EvanZuo/perfect-vue&type=Timeline)](https://star-history.com/#XiangBo-EvanZuo/perfect-vue&Timeline)
